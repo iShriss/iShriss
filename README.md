@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @iShriss
-- 👀 I’m interested in learning edge technology like Cloud , Edge
-- 🌱 I’m currently learning Cloud Technology say, Azure 
-- 💞️ I’m looking to collaborate on JS and Asp.Net Core
+- 👋 Hi, I’m @iShriss - Software Engineer 
+- 👀 I’m interested in C#, Javascript, Cloud 
+- 🌱 I’m currently learning to craft Software Architeure, Cloud Technology say - Azure 
+- 💞️ I’m looking to collaborate on JS components.
 - 📫 Twitter : @iShriss
 
 <!---
