@@ -2,7 +2,7 @@
 
      <i>Into software development for 6 plus years, mostly building FinTech software products. During my journey I have been spending time with technologies like C#, JS,            Azure, React, AngularJS 1.x , MS SQL. Currently learning software designs. I believe technology as a tool to solve wide range of problems,.Looking forward to Learn and share. Thank You !</i>
     <a class="twitter-follow-button"
-  href="https://twitter.com/TwitterDev">
+  href="https://twitter.com/iShriss">
 Connect on Twitter</a>
 
 - # Languages and Tools 
