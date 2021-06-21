@@ -1,14 +1,22 @@
-- 👋 Hi, I’m @iShriss - Software Engineer 
-- 👀 I’m interested in C#, Javascript, Cloud 
-- 🌱 I’m currently learning to craft Software Architeure, Cloud Technology say - Azure 
-- 💞️ I’m looking to collaborate on JS components.
-- 📫 Twitter : @iShriss
+- # Hi I'm Shridhar 👋 
+
+     <i>Into software development for 6 plus years, mostly building FinTech software products. During my journey I have been spending time with technologies like C#, JS,            Azure, React, AngularJS 1.x , MS SQL. Currently learning software designs. I believe technology as a tool to solve wide range of problems,.Looking forward to Learn and share. Thank You !</i>
+    <a class="twitter-follow-button"
+  href="https://twitter.com/TwitterDev">
+Connect on Twitter</a>
+
+- # Languages and Tools 
+    <p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/daec30537f927796414c0b536a706a9d0beec765ed656b9f6c60b2599f6ce996/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f68746d6c352e737667"><img src="https://camo.githubusercontent.com/daec30537f927796414c0b536a706a9d0beec765ed656b9f6c60b2599f6ce996/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f68746d6c352e737667" alt="HTML Logo" width="50" height="50" data-canonical-src="https://cdn.worldvectorlogo.com/logos/html5.svg" style="max-width:100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e0a32498daaa1846d9a28912df654f2b2cc0a1891f4cb964836bc71a3fbc3362/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6c6f676f2d6a6176617363726970742e737667"><img src="https://camo.githubusercontent.com/e0a32498daaa1846d9a28912df654f2b2cc0a1891f4cb964836bc71a3fbc3362/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6c6f676f2d6a6176617363726970742e737667" alt="JavaScript Logo" width="50" height="50" data-canonical-src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" style="max-width:100%;"></a> <img src="https://camo.githubusercontent.com/accac71d5d4e61a129dc89eaac39d1c4c5437c44e18e085c2834a4297613ef50/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f72656163742d322e737667" alt="React Logo" width="50" height="50" data-canonical-src="https://cdn.worldvectorlogo.com/logos/react-2.svg" style="max-width:100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/222fa9761f81c629e3cb83efa13d8469108c8e6d9c62ae6afcd1dceb4256d8fb/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f707974686f6e2d352e737667"><img src="https://camo.githubusercontent.com/3943dd0a5d597cdb9b6c70935d7cd77976edf46d58b85d459fe9a200d8a5190c/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f617a7572652d312e737667" alt="Azure Logo" width="50" height="50" data-canonical-src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" style="max-width:100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/8309f96251a086c056e0d7262b7eb66b2da6bdc35ed439b269fd907aa516095a/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f76697375616c2d73747564696f2d636f64652d312e737667"><img src="https://camo.githubusercontent.com/8309f96251a086c056e0d7262b7eb66b2da6bdc35ed439b269fd907aa516095a/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f76697375616c2d73747564696f2d636f64652d312e737667" alt="VSCode Logo" width="50" height="50" data-canonical-src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" style="max-width:100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/6ef5b9ab48e506b686160b72ef7b122590d4b0f9866ba2287ca0e9d6959839f3/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f76697375616c2d73747564696f2d323031332e737667"><img src="https://camo.githubusercontent.com/6ef5b9ab48e506b686160b72ef7b122590d4b0f9866ba2287ca0e9d6959839f3/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f76697375616c2d73747564696f2d323031332e737667" alt="Visual Studio Logo" width="50" height="50" data-canonical-src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" style="max-width:100%;"></a>
+</p>
+
+<!---![Shridhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=iShriss&show_icons=true)--->
+<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iShriss&layout=compact)](https://github.com/iShriss/github-readme-stats)--->
 
 
-Featured Blogs
+- # My Blogs 
 
-- [*Azure Storage and Storage Services*](https://www.c-sharpcorner.com/article/azure-storage-and-storage-services2/)
-- [*Upload, Download and Delete Blob Files in Azure Storage*](https://www.c-sharpcorner.com/article/upload-download-and-delete-blob-files-in-azure-storage/)
+ - [*Azure Storage and Storage Services*](https://www.c-sharpcorner.com/article/azure-storage-and-storage-services2/)
+ - [*Upload, Download and Delete Blob Files in Azure Storage*](https://www.c-sharpcorner.com/article/upload-download-and-delete-blob-files-in-azure-storage/)
 <!---
 iShriss/iShriss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
