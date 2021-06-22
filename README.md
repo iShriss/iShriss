@@ -1,6 +1,6 @@
-- # Hi I'm Shridhar 👋 
+- # Hi there ! I'm Shridhar 👋 :man_technologist:
 
-     <i>Into software development for 6 plus years, mostly building FinTech software products. During my journey I have been spending time with technologies like C#, JS,            Azure, React, AngularJS 1.x , MS SQL. Currently learning software designs. I believe technology as a tool to solve wide range of problems,.Looking forward to Learn and share. Thank You !</i>
+     <i>Into software development for 6 years or so, mostly building FinTech software products. During my journey so far I have been spending time with technologies like C#, JS,            Azure, React, AngularJS 1.x , MS SQL. Currently learning software designs and Cloud Technologies like Azure. I strongly believe and seeing technology as a tool to solve wide range of problems in today's world,.Looking forward to Learn and share. Thank You !</i>
     <a class="twitter-follow-button"
   href="https://twitter.com/iShriss">
 Connect on Twitter</a>
@@ -17,6 +17,7 @@ Connect on Twitter</a>
 
  - [*Azure Storage and Storage Services*](https://www.c-sharpcorner.com/article/azure-storage-and-storage-services2/)
  - [*Upload, Download and Delete Blob Files in Azure Storage*](https://www.c-sharpcorner.com/article/upload-download-and-delete-blob-files-in-azure-storage/)
+ - [*Creating Custom HTML Helpers using Extension Method C#*](https://www.c-sharpcorner.com/UploadFile/092589/creating-custom-helpers/)
 <!---
 iShriss/iShriss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
